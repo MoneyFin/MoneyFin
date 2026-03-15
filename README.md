@@ -1,3 +1,3 @@
 # MoneyFin
 
-MoneyFin is a open-source money manager.
+MoneyFin is an open-source, self-hostable money manager.
